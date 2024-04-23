@@ -134,7 +134,8 @@ docker push username/my-mongodb
 
 This will push the MongoDB Docker image to your Docker Hub repository. Repeat the same steps for Node.js and React.js Docker images.
 
-![image](https://github.com/MilanPatel28/21BCP236_Blog_Three_Tier/assets/102026489/eb35b011-9300-4e3c-b1f5-a616ff5905b5)
+![DockerHubRepo](https://github.com/MilanPatel28/21BCP236_Blog_Three_Tier/assets/102026489/e38ea8fe-e2a8-469b-a01c-aac4da2c3114)
+
 
 # Conclusion
 
